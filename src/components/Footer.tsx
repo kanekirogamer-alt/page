@@ -9,10 +9,10 @@ const TikTokIcon = () => (
 
 const footerLinks = {
   organization: [
-    { label: "About Us", href: "#about" },
-    { label: "Our Team", href: "#" },
-    { label: "Careers", href: "#" },
-    { label: "Press", href: "#" },
+    { label: "Acasă", href: "/" },
+    { label: "Despre noi", href: "/despre-noi" },
+    { label: "Proiecte", href: "/proiecte" },
+    { label: "Implică-te", href: "/implica-te" },
   ],
   programs: [
     { label: "Workshops", href: "#programs" },
